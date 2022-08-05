@@ -9,13 +9,13 @@
 
 --> Clone the repository using the command below :
 ```bash
-git clone https://github.com/divanov11/StudyBud.git
+git clone https://github.com/fufic123/social-media
 
 ```
 
 --> Move into the directory where we have the project files : 
 ```bash
-cd StudyBud
+cd app
 
 ```
 
@@ -25,29 +25,21 @@ cd StudyBud
 pip install virtualenv
 
 # Then we create our virtual environment
-virtualenv envname
+python3 -m venv venv
 
 ```
 
 --> Activate the virtual environment :
 ```bash
-envname\scripts\activate
+source venv/bin/activate
 
 ```
-
---> Install the requirements :
-```bash
-pip install -r requirements.txt
-
-```
-
-#
 
 ### Running the App
 
 --> To run the App, we use :
 ```bash
-python manage.py runserver
+python3 manage.py runserver
 
 ```
 
