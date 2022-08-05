@@ -35,6 +35,12 @@ source venv/bin/activate
 
 ```
 
+--> Move back into the directory where we have the main 'manage.py' file : 
+```bash
+cd ../
+
+```
+
 ### Running the App
 
 --> To run the App, we use :
