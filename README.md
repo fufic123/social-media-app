@@ -1,6 +1,5 @@
-
 <div align="center">
-# Social-media using django
+# Social media using django
   
 <img width="30%" src="https://github.com/fufic123/projects-preview/blob/main/social-media-app/logo.PNG">
 </div>
