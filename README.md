@@ -12,12 +12,6 @@ git clone https://github.com/fufic123/social-media
 
 ```
 
---> Move into the directory where we have the project files : 
-```bash
-cd app
-
-```
-
 --> Create a virtual environment :
 ```bash
 # Let's install virtualenv first
@@ -31,12 +25,6 @@ python3 -m venv venv
 --> Activate the virtual environment :
 ```bash
 source venv/bin/activate
-
-```
-
---> Move back into the directory where we have the main 'manage.py' file : 
-```bash
-cd ../
 
 ```
 
