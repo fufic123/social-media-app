@@ -12,6 +12,12 @@ git clone https://github.com/fufic123/social-media
 
 ```
 
+--> Move into the directory where we have the project files : 
+```bash
+cd social-media-app
+
+```
+
 --> Create a virtual environment :
 ```bash
 # Let's install virtualenv first
