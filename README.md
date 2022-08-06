@@ -1,8 +1,7 @@
 <div align="center">
-  ### Cloning the repository
-# Social media using django
+  <img width="30%" src="https://github.com/fufic123/projects-preview/blob/main/social-media-app/logo.PNG">
   
-<img width="30%" src="https://github.com/fufic123/projects-preview/blob/main/social-media-app/logo.PNG">
+  # Social media using django
 </div>
 
 ### Cloning the repository
