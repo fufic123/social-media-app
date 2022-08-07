@@ -34,6 +34,12 @@ source venv/bin/activate
 
 ```
 
+--> Install the requirements :
+```bash
+pip install -r requirements.txt
+
+```
+
 ### Running the App
 
 --> To run the App, we use :
